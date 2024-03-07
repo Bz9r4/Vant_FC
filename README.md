@@ -1,1 +1,1 @@
-# Codigo de controle de motores/LEDs do drone LASBIO
+# Controle de Motores/LEDs do drone Oiticica
