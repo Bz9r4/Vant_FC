@@ -3,3 +3,4 @@
 
 Links uteis: 
 - Wokwi: https://wokwi.com/projects/385875384721554433
+- Pinout Arduino Uno: https://docs.arduino.cc/resources/pinouts/A000066-full-pinout.pdf
