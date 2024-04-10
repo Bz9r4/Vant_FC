@@ -4,4 +4,4 @@
 Links uteis: 
 - Wokwi: https://wokwi.com/projects/385875384721554433
 - Pinout Arduino Uno: https://docs.arduino.cc/resources/pinouts/A000066-full-pinout.pdf
-- Pinout ESP8266 12E/F: https://microcontrollerslab.com/esp8266-pinout-reference-gpio-pins/
+- Pinout ESP8266 12E/F: https://docs.ai-thinker.com/_media/esp8266/docs/esp12e_datasheet.pdf
