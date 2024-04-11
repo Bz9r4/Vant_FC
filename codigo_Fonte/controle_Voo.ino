@@ -35,6 +35,14 @@ void loop() {
   int roll = map(gx, -32768, 32767, -90, 90);
   int pitch = map(gy, -32768, 32767, -90, 90);
   int yaw = map(gz, -32768, 32767, -90, 90);
+
+  // Imprime os valores no Serial Monitor
+  Serial.print("Roll: ");
+  Serial.print(roll);
+  Serial.print("\tPitch: ");
+  Serial.print(pitch);
+  Serial.print("\tYaw: ");
+  Serial.println(yaw);
   
 
   // Controle de LEDs com base no movimento de roll
